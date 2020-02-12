@@ -1,7 +1,7 @@
 Pavel Svirid
  
 Contact Info:
-Mail: psvirid@gmail.ru
+Mail: psvirid@gmail.com
 Tel: + 375 29 707 50 60
 
 Summary:
