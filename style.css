@@ -1,0 +1,26 @@
+* {
+    background-color: lightgray;
+}
+
+.wrapper {
+    margin: 5% auto;
+    width: 1024px;
+}
+
+.hedader {
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.user-foto {
+    display: block;
+}
+
+.user-contacts {
+    display: block;
+}
+
+.content {
+    padding: 45px 85px;
+}
